@@ -1,0 +1,33 @@
+h1 {
+	text-align: center;
+	font-size: 50px;
+	border-bottom: solid;
+	border-width: 2px;
+
+}
+h2 {
+	text-align: left;
+	border-bottom: solid;
+	border-width: 2px;
+
+}
+.links {
+	text-align: center;
+}
+a {
+	margin: 25px;
+	font-size: 25px;
+	color: black;
+}
+body {
+	background-color: #00cc99;
+}
+p {
+	font-size: 25px;
+	margin-right: 50px;
+	margin-left: 50px;
+
+}
+.info {
+	border-bottom: black;
+}
